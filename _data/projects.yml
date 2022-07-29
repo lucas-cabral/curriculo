@@ -1,0 +1,44 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# No zap com
+- project: No zap com...
+  role: Repórter e idealizador
+  duration: 2021
+  # url: "#"
+  description: Coluna de entrevistas sobre música na cidade de Ponta Grossa, publicada no extinto portal jornalístico "Aponta.jor.br".
+
+# XML-Jats RIF
+- project: Conversão de 6 edições da Revista Internacional de Folkcomunicação para XML-Jats
+  role: Desenvolvedor e coordenador
+  duration: 2021
+  # url: "#"
+  description: Realizei a conversão de 6 edições já publicadas da revista, exigência para publicação no indexador Redalyc. Além disso, coordenei o processo de publicação das novas edições no mesmo formato.
+  
+# Mini curso apuração
+- project: Curso de extensão "Apuração jornalística de dados públicos governamentais - 1ª Edição"
+  role: Equipe executora e ministrante de oficina
+  duration: 2020
+  # url: "#"
+  description: Ajudei na organização do curso, planejei e ministrei a aula sobre "Portais da Transparência" em parceria com o jornalista João Guilherme Castro.
+  
+# Apoio eleições
+- project: Apoio de prefeitos e vereadores pode ser decisivo na disputa pelo governo estadual
+  role: Repórter
+  duration: 2018
+  url: "https://periodico.sites.uepg.br/index.php/cidade-cidadania/1132-apoio-de-prefeitos-e-vereadores-pode-ser-decisivo-na-disputa-pelo-governo-estadual"
+  description: Reportagem que apurou os partidos de todos os vereadores do Paraná e analisou os impactos do apoio partidário de prefeitos e vereadores nas eleições de 2018 para governador.
+  
+# Homenagens
+- project: Homenagens chegam a 70% das aprovações na Câmara Municipal - Manchete da edição 192 do Foca Livre
+  role: Repórter
+  duration: 2017
+  url: "https://issuu.com/focalivre/docs/foca_livre_192"
+  description: Reportagem que analisa a quantidade de homenagens propostas e aprovadas na Câmara Municipal de Ponta Grossa. Publicada na página cinco.
+  
+# LAI nos Campos Gerais
+- project: Câmaras da região desrespeitam Lei de Acesso à Informação - Manchete da edição 199 do Foca Livre
+  role: Repórter
+  duration: 2017
+  url: "https://issuu.com/focalivre/docs/focalivre199"
+  description: Reportagem que investigou o cumprimento da Lei de Acesso à Informação nos 19 municípios dos Campos Gerais. Publicada nas páginas quatro e cinco.

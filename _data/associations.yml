@@ -1,0 +1,15 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Revista Brasileira de Ensino de Jornalismo (REBEJ)
+  role: Assistente editorial
+  year: 2021 &mdash; Atualmente
+  url: http://rebej.abejor.org.br/index.php/rebej
+  summary: Revisão e edição de textos acadêmicos para publicação em revista científica.
+
+
+- organization: Centro Acadêmico de Jornalismo João do Rio
+  role: Secretário de Cultura e Comunicação
+  year: 2017 &mdash; 2018
+  #url:
+  summary: Responsável em duas gestões pela organização de eventos culturais e acadêmicos para o Centro Acadêmico do curso de Jornalismo da Universidade Estadual de Ponta Grossa.
